@@ -77,7 +77,7 @@
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_end_background","path":"sprites/spr_end_background/spr_end_background.yy",},},
     {"id":{"name":"spr_enderman_air","path":"sprites/spr_enderman_air/spr_enderman_air.yy",},},
-    {"id":{"name":"spr_enderman_hurt","path":"sprites/spr_enderman_hurt/spr_enderman_hurt.yy",},},
+    {"id":{"name":"spr_enderman_purple","path":"sprites/spr_enderman_purple/spr_enderman_purple.yy",},},
     {"id":{"name":"spr_enderman_walking","path":"sprites/spr_enderman_walking/spr_enderman_walking.yy",},},
     {"id":{"name":"spr_enderman","path":"sprites/spr_enderman/spr_enderman.yy",},},
     {"id":{"name":"spr_gun","path":"sprites/spr_gun/spr_gun.yy",},},

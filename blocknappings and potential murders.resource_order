@@ -54,7 +54,7 @@
     {"name":"spr_bullet","order":3,"path":"sprites/spr_bullet/spr_bullet.yy",},
     {"name":"spr_end_background","order":21,"path":"sprites/spr_end_background/spr_end_background.yy",},
     {"name":"spr_enderman_air","order":7,"path":"sprites/spr_enderman_air/spr_enderman_air.yy",},
-    {"name":"spr_enderman_hurt","order":5,"path":"sprites/spr_enderman_hurt/spr_enderman_hurt.yy",},
+    {"name":"spr_enderman_purple","order":5,"path":"sprites/spr_enderman_purple/spr_enderman_purple.yy",},
     {"name":"spr_enderman_walking","order":4,"path":"sprites/spr_enderman_walking/spr_enderman_walking.yy",},
     {"name":"spr_enderman","order":6,"path":"sprites/spr_enderman/spr_enderman.yy",},
     {"name":"spr_gun","order":2,"path":"sprites/spr_gun/spr_gun.yy",},
